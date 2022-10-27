@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "name": "HTML"
+    },
+    {
+        "id": "02",
+        "name": "JAVA"
+    },
+    {
+        "id": "03",
+        "name": "C"
+    },
+    {
+        "id": "04",
+        "name": "JAVASCRIPT"
+    },
+    {
+        "id": "05",
+        "name": "PYTHON"
+    },
+    {
+        "id": "06",
+        "name": "PHP"
+    }
+    
+]
